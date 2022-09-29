@@ -5,9 +5,9 @@
 
 #### Use to:
 - Take Notes 
+<br />
 
-
-### How to start notes server in local
+How to start notes server in local
 ```
 # npm start
 ```
